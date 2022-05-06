@@ -1,0 +1,254 @@
+{
+    "burgers":[
+        {
+            "id":0,
+            "name": "Burger Classic",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["Grilled beef", "lettuce", "tomato", "pickles", "cocktail sauce"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ]
+    
+        },
+        {
+            "id":1,
+            "name": "Cheese Burger",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["Grilled beef burger", "coleslaw", "fries", "ketchup", "cheese"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name": "Lebanese Burger",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["Beef burger", "coleslaw", "fries", "ketchup", "pickles", "onion"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name": "Chick N' Shake",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["Breaded chicken", "tomato", "lettuce", "onion", "mayonnaise", "avocado sauce"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name": "Spicy Burger",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["Beef burger", "onion", "green bell pepper", "lettuce", "pickles", "cheddar cheese", "spicy cocktail sauce"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "name": "Double Burger",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["2 pieces of grilled beef burger", "fries", "ketchup", "coleslaw"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "name": "Kream Burger",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["Beef burger", "onion", "lettuce", "mushroom", "mayonnaise"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ] 
+        },
+        {
+            "id":7,
+            "name": "Fish Burger",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["Fried Breaded fish fillet", "lettuce", "onion", "tartar sauce"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ] 
+        },
+        {
+            "id":8,
+            "name": "Big Mac Burger",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["Beef burger", "mazzarella pane", "cheddar", "onion", "lettuce", "mayonnaise"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ] 
+        },
+        {
+            "id":9,
+            "name": "ZINGER Supreme",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["Zinger", "turky", "avocado", "lettuce", "cheddar", "tomato", "pickles"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ]  
+        },
+        {
+            "id":10,
+            "name": "Special Burger",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["150 g beef, lettuce", "cheddar", "sauce cocktail"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ]  
+        },
+        {
+            "id":11,
+            "name": "Crunchy burger",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["Zinger", "Avocado", "lettuce", "cheddar", "mayonnaise"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ]  
+        },
+        {
+            "id":12,
+            "name": "Double Crunchy burger",
+            "restaurant": "Kream",
+            "web":"https://kream-restaurant.business.site/",
+            "description": "visit us and enjoy our super delicious food",
+            "ingredients":["Double zinger", "Avocado", "lettuce", "cheddar", "mayonnaise"],
+            "address":  [
+                {
+                    "addressId": 0,
+                    "number": "2260",
+                    "line1": "Jovena",
+                    "line2": "Kolwezi",
+                    "postcode": "07301",
+                    "telephone": "+243 907 111 107",
+                    "country": "Democratic Republic of Congo"
+                }
+            ]  
+        }
+    ]
+    
+    
+}
